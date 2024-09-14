@@ -1,0 +1,19 @@
+{
+    "name": "sample #1",
+    "description": "This is a sample description.",
+    "image": "ipfs://",
+    "animation": "ipfs://",
+    "collection": {
+        "name": "sample collection"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Light gray"
+        },
+        {
+            "trait_type": "Sample",
+            "value": "No.1"
+        }
+    ]
+}
