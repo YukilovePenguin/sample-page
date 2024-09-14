@@ -2,7 +2,7 @@
   "sites": [
     {
       "slug": "sample-page",
-      "distDir": "",
+      "distDir": "./",
       "buildCommand": ""
     }
   ]
