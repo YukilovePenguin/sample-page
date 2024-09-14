@@ -3,7 +3,7 @@
     {
       "slug": "sample-page",
       "distDir": "",
-      "buildCommand": ""
+      "buildCommand": "yarn run build"
     }
   ]
 }
