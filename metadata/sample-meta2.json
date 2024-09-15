@@ -1,0 +1,9 @@
+{
+    "name": "sample #1",
+    "description": "This is a sample description.",
+    "image": "https://sample-page.on-fleek.app/metadata/sample-image2.gif",
+    "animation": "https://sample-page.on-fleek.app/metadata/sample-image2.gif",
+    "collection": {
+        "name": "sample collection"
+    }
+}
