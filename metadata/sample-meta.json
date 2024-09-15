@@ -1,0 +1,19 @@
+{
+    "name": "sample #1",
+    "description": "This is a sample description.",
+    "image": "https://sample-page.on-fleek.app/metadata/sample-image.gif",
+    "animation": "https://sample-page.on-fleek.app/metadata/sample-image.gif",
+    "collection": {
+        "name": "sample collection"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Light gray"
+        },
+        {
+            "trait_type": "Sample",
+            "value": "No.1"
+        }
+    ]
+}
