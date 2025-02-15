@@ -1,0 +1,22 @@
+{
+    "name": "sample #4 Animation",
+    "description": "This is an Animation sample description.",
+    "animation": "ipfs://QmXsuTRrGqqzDaLPenMfhyWyNtzoH7GLdFxWJowVnqSDHV",
+    "collection": {
+        "name": "sample collection"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Dark gray"
+        },
+        {
+            "trait_type": "Sample",
+            "value": "No.4"
+        }
+        {
+            "trait_type": "Animation",
+            "value": "ON"
+        }
+    ]
+}
