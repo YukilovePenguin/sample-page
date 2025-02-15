@@ -1,6 +1,7 @@
 {
     "name": "sample #4 Animation",
     "description": "This is an Animation sample description.",
+    "image": "",
     "animation": "ipfs://QmXsuTRrGqqzDaLPenMfhyWyNtzoH7GLdFxWJowVnqSDHV",
     "collection": {
         "name": "sample collection"
