@@ -1,8 +1,13 @@
 {
+    "schema": "ipfs://bafkreidtjf2ihiwtptiyadjfmesplo555iy2jdcwhfr6hkenr2z3fvxn2y",
+    "nftType": "art.v0",
     "name": "sample #4 Animation",
     "description": "This is an Animation sample description.",
     "image": "",
     "animation": "ipfs://QmXsuTRrGqqzDaLPenMfhyWyNtzoH7GLdFxWJowVnqSDHV",
+	"video": "",
+    "audio": "",
+    "3d_model": "",
     "collection": {
         "name": "sample collection"
     },
@@ -19,5 +24,6 @@
             "trait_type": "Animation",
             "value": "ON"
         }
-    ]
+    ],
+	"license": "None"
 }
